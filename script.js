@@ -15,4 +15,4 @@ window.cap1 = cap1;
 
 var team = players;
 var team1 =[...players];
-var cap1 = [...person];
+var cap1 = Object.assign({}, person);
