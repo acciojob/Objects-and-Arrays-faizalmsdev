@@ -14,5 +14,5 @@ window.team1 = team1;
 window.cap1 = cap1;
 
 var team = players;
-var team1 =players;
+var team1 =[...players];
 var cap1 = person;
